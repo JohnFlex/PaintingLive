@@ -27,6 +27,7 @@ Either, I'm not sure if it will be enough. Try to install C++ Desktop and .NET c
 * Launch *PaintingLive.sln*
 * Change solution platform to *x86* and *Simulator* to *Device*
 * Take a coffee 
+
 And it's done !
 
 If you plug the HoloLens for the first time, you'll need to connect it by giving a code provided by developpers options.
